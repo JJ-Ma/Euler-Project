@@ -24,6 +24,6 @@ public class Euler6
   public static void main(String[] args)
   {
     Euler6 answer = new Euler6();
-    System.out.println(answer.SumOfSquares(1,10)-answer.SquareOfSum(1,10));
+    System.out.println(answer.SquareOfSum(1,100)-answer.SumOfSquares(1,100));
   }
 }
