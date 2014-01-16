@@ -14,7 +14,7 @@ public class Euler7
   }
   public static void main(String[] args)
   {
-	  Euler7 s = new Euler7();
+    Euler7 s = new Euler7();
     int counter = 0;
 		int i = 0;
     for(i = 2; counter < 10001; i++)
